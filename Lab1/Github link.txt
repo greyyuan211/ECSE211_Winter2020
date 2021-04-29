@@ -1,0 +1,2 @@
+Github hash: dd2d80ab21ec8651c970c69fafa7b63a38a3a47d
+Link: https://github.com/mcgill-ecse211-w20/lab1-ecse211_g20/commit/dd2d80ab21ec8651c970c69fafa7b63a38a3a47d
